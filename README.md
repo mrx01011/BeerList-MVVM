@@ -9,7 +9,7 @@ Application for search beer with Swift MVVM design pattern using RxSwift.
 
 | List | Detail | Search | Random |
 | :--: | :----: | :----: | :----: |
-<img src = "./screenshots/scrn1.png" width = 400> | <img src = "./screenshots/scrn2.png" width = 400> | <img src = "./screenshots/scrn3.png" width = 400> | <img src = "./screenshots/scrn4.png" width = 400> |
+<img src = "./screenshots/scrn1.png" width = 400> | <img src = "./screenshots/scrn2.png" width = 400> | <img src = "./screenshots/scrn3.png" width = 400> | <img src = "./screenshots/scren4.png" width = 400> |
 
 ## Shared
 
